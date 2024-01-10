@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parag08
 - 👀 I’m interested in design pattern, architecture pattern, serverless architecture and microservice-architecture
-- 🌱 I’m currently learning golang design pattern
+- 🌱 I’m currently learning AI models
 - 💞️ I’m looking to collaborate on any web-application starting phase
 - 📫 How to reach me parag.m.rahangdale@gmail.com
 
