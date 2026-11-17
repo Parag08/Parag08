@@ -1,15 +1,15 @@
 ### Hi, I'm Parag 👋
 
-Engineer, then engineering manager, now product. 10 years across enterprise cloud, healthtech, proptech and blockchain. INSEAD MBA '26, based in Singapore and **open to Product Manager and Technical Program Manager roles**.
+Engineer, then engineering manager, now product. 10 years across enterprise cloud, healthtech, proptech and blockchain. INSEAD MBA '26, based in Singapore and **open to Product Manager and Forward Deployed Engineer roles**.
 
-I like turning messy operational problems into tools people actually adopt, and I still build them myself.
+I work best embedded with the people who have the problem: learn the workflow, build the tool, and stay until it's adopted. I still write the code myself, as the projects below show.
 
 **Path:** IIT Jodhpur (B.Tech) → Cognizant → Eleven01 (founding blockchain developer) → Touchnote (senior backend) → Nutanix (Member of Technical Staff, then Engineering Team Lead) → INSEAD MBA → Strymin and Valeo Health (product and operations)
 
 **Selected results**
 
 - **Nutanix:** led an 11+ engineer migration team, enabled $40–50M in annual contract value, and cut VM migration failures from 10% to about 1%
-- **Valeo Health:** built Logistics Valeo, a dispatch tool ops adopted within a week. Orders captured rose from 60–70% to 80–90%, km per order fell about 25%, and operations costs dropped 30%
+- **Valeo Health:** worked alongside the operations team, then built Logistics Valeo, a dispatch tool they moved onto within a week. Orders captured rose from 60–70% to 80–90%, km per order fell about 25%, and operations costs dropped 30%
 - **Strymin:** built a proptech investment platform's roadmap from a blank page and cut platform setup from six months to two
 
 ### What I'm building
